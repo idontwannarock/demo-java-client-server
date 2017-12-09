@@ -13,6 +13,7 @@ public class Client04 {
 
 	public static void main(String[] args) {
 		clientConnector = new ClientConnector(numberOfServer);
+		clientConnector.setUpServerToConnect();
 	}
 
 }
