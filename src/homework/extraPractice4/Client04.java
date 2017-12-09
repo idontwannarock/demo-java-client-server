@@ -8,7 +8,7 @@ Client再將所有接收到的答案相乘
  */
 
 public class Client04 {
-	static final int numberOfServer = 10;
+	static final int numberOfServer = 5;
 	static ClientConnector clientConnector;
 
 	public static void main(String[] args) {
