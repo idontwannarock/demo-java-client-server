@@ -10,7 +10,8 @@ public class ClientConnector {
 		this.numberOfServer = numberOfServer;
 	}
 	
-	
-	
+	public void setUpServerToConnect() {
+		
+	}
 	
 }
