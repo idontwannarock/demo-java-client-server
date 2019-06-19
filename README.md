@@ -1,3 +1,3 @@
-# javaServerClient
+# Java Client Server
 
-Several practices implementing socket under client server mode to transfer data.
+Practice implementing socket between client and server.
